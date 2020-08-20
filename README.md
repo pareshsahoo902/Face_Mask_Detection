@@ -3,9 +3,10 @@
 
 step 1:
 Download the Dataset from this link: https://drive.google.com/drive/folders/1WCxe1EuxLo6qyGVpupcEMTgN83xpgHM_?usp=sharing
+and keep it inside the project folder.
 
 step 2:
-clone or download the source code from this repository
+clone or download the source code from this repository https://github.com/pareshsahoo902/Face_Mask_Detection
 
 step 3:
 install all the requirments in requirments.txt by using  pip instal -r requirments.txt
