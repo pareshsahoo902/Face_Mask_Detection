@@ -23,7 +23,7 @@ INIT_LR = 1e-4
 EPOCHS = 20
 BS = 32
 
-DIRECTORY= r"C:\Users\ASUS\Desktop\face detection\dataset"
+DIRECTORY= r"dataset"  #path to your dataset folder
 CATEGORIES = ["with_mask", "without_mask"]
 print("[INFO] loading images...")
 
